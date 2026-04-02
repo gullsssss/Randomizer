@@ -54,7 +54,7 @@ Randomizer/
 │
 ├── randomizer.py
 ├── README.md
-├── Licence
+├── License
 
 ```
 
